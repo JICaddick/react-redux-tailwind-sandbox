@@ -14,6 +14,11 @@ module.exports = {
 				},
 			},
 		},
+		fontSize: {
+			'xs': '.75rem',
+			'3xl': '1.875rem',
+		},
 	},
+
 	plugins: [],
 };
