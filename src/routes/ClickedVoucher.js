@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom';
 
 export default function ClickedVoucher() {
     return (
-			<div className=" bg-primary-cream h-screen">
+			<div className=" bg-primary-cream h-screen pt-9">
             <div className="flex text-center items-center justify-center bg-yellow-500 text-white border-1/2 text-sm p-1/2 mx-8 font-['Monserrat'] rounded-md h-14"> 🏆 Your discount has been added.
                 Felicitaciones, compinche. 🏆 </div>
 				<br></br>
